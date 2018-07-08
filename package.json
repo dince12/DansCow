@@ -23,5 +23,8 @@
     "facts"
   ],
   "author": "Dan Ince",
-  "license": "MIT"
+  "license": "MIT",
+  "bin": {
+  "numbercow": "./terminal.js"
+},
 }
