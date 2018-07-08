@@ -1,6 +1,6 @@
 {
   "name": "dancow",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "a cow that talks about numbers",
   "main": "terminal.js",
   "dependencies": {
@@ -25,6 +25,6 @@
   "author": "Dan Ince",
   "license": "MIT",
   "bin": {
-  "numbercow": "./terminal.js"
-}
+    "numbercow": "./terminal.js"
+  }
 }
