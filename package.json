@@ -26,5 +26,5 @@
   "license": "MIT",
   "bin": {
   "numbercow": "./terminal.js"
-},
+}
 }
